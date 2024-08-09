@@ -1,3 +1,5 @@
+# [Issue](https://github.com/sveltejs/svelte/issues/12776)
+
 ## Dev mode (works)
 
 1.  Run `pnpm run dev`.
